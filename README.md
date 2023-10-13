@@ -57,7 +57,7 @@ To run Proverload on your Android device, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd proverload
+   cd Proverload-v2
    ```
 
 3. Install the required dependencies:
