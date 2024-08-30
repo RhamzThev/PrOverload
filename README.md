@@ -1,8 +1,8 @@
-# Proverload v2
+# Proverload
 
-[![Archived](https://img.shields.io/badge/status-archived-lightgrey.svg)](https://github.com/RhamzThev/Proverload-v2)
+[![Archived](https://img.shields.io/badge/status-archived-lightgrey.svg)](https://github.com/RhamzThev/Proverload)
 
-https://github.com/RhamzThev/Proverload-v2/assets/61640066/40ccd247-850d-45d1-82db-25c7835f1a29
+https://github.com/RhamzThev/Proverload/assets/61640066/40ccd247-850d-45d1-82db-25c7835f1a29
 
 Proverload is an Android fitness application designed to help users create, discover, and engage with personalized workout routines. This repository contains the second version of the project, which has been archived and is now read-only.
 
@@ -33,11 +33,11 @@ To set up and run Proverload on your Android device:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/RhamzThev/Proverload-v2.git
+   git clone https://github.com/RhamzThev/Proverload.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Proverload-v2
+   cd Proverload
    ```
 3. Install dependencies:
    ```sh
